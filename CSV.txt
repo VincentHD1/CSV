@@ -1,0 +1,2 @@
+CSV 
+Eine CSV-Datei (durch Kommas getrennte Werte) ist ein spezieller Dateityp, den Sie in Excel erstellen oder bearbeiten können. Statt Informationen in Spalten zu speichern, werden Informationen in CSV-Dateien durch Kommas getrennt.
